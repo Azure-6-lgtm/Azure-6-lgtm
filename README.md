@@ -3,8 +3,8 @@
   I am a linux and Android enthuatist, I love the philosophy of Free software programs
 </b>
 <h2>My current Projects-</h2>
-<p>-1- OpenBuche - An arch based distro that runs on top Of PRoot(Still in development) </p>
-<p>-2- BUCHEVIM(Not released yet) - An lightweight but customizable nvim config</p>
+<p>-1- BucheFetchUltra(newly released) - Continuation of Buchefetch(better version of it) </p>
+<p>-2- BUCHEVIM(Not done yet) - An lightweight but customizable nvim config</p>
 <h1>–-------–––</h1>
 <p>End of my Readme Here Lol </p>
 <!---
