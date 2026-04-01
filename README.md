@@ -1,13 +1,28 @@
-<h1>Azure-6-Lgtm</h1>
-<b>Hello,My username is Azure-6-lgtm,(In short Azure) <br>
-  I am a linux and Android enthuatist,
-</b>
-<h2>My current Projects-</h2>
-<p>-1- BucheFetchUltra - Continuation of Buchefetch(better version of it) </p>
-<p>-2- BUCHEVIM(Not done yet) - An lightweight but customizable nvim config</p>
-<h1>–-------–––</h1>
-<p>End of my Readme Here Lol </p>
-<!---
-Azure-6-lgtm/Azure-6-lgtm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Azure-6-lgtm
+
+**Hello, my username is Azure-6-lgtm (Azure for short).**  
+I’m a Linux and Android enthusiast.I mainly code in Rust or Python or C
+
+---
+
+## 🚧 Current Projects
+
+### 1. Bucheshell 
+An bare bones shell (basically a knockoff of bash) 
+
+### 2. BucheFetchUltra
+Continuation of **BucheFetch**, but a better version.
+
+### 3. Buchevim (WIP)
+A lightweight but customizable Neovim configuration.
+
+---
+
+## 📌 About
+- Linux enthusiast
+- Android enthusiast
+- Rust enjoyer
+
+---
+
+_End of my README… yes, that’s it._
