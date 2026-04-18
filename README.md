@@ -10,8 +10,8 @@ I’m a Linux and Android enthusiast.I mainly code in Rust or Python or C
 ### 1. Bucheshell 
 An bare bones shell (basically a knockoff of bash) 
 
-### 2. BucheFetchUltra
-Continuation of **BucheFetch**, but a better version.
+### 2. Buche Music (WIP) 
+A Tui music player that just works.. 
 
 ### 3. Buchevim (WIP)
 A lightweight but customizable Neovim configuration.
