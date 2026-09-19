@@ -1,28 +1,57 @@
-# Azure-6-lgtm
+# Hey, I'm Azure 👋
 
-**Hello, my username is Azure-6-lgtm (Azure for short).**  
-I’m a Linux and Android enthusiast.I mainly code in Rust or Python or C
+🦀 **Rust learner** • 🐧 **Linux & Android enthusiast** • 🛠️ **Open-source contributor**
 
----
+I like building things, breaking things, figuring out why they broke, and occasionally pretending that was the plan.
 
-## 🚧 Current Projects
+## 🔧 What I'm into
 
-### 1. Bucheshell 
-An bare bones shell (basically a knockoff of bash) 
+- 🦀 Rust & systems programming
+- 🐍 Python
+- 🐧 Linux / Termux
+- 📱 Android
+- 💻 CLI tools & developer utilities
+- 🎸 Music and guitar
+- 🧪 Random programming experiments
 
-### 2. Buche Music (WIP) 
-A Tui music player that just works.. 
+## 🚀 What I'm building
 
-### 3. Buchevim (WIP)
-A lightweight but customizable Neovim configuration.
+I'm currently experimenting with Rust projects ranging from command-line tools and system utilities to small experiments in programming languages and developer tooling.
 
----
+Some of my projects:
 
-## 📌 About
-- Linux enthusiast
-- Android enthusiast
-- Rust enjoyer
+- 🛠️ **NeoBucheshell** — A work in progress fork and remaster of my old  shell **bucheshell** 
+- ⚡ **Buchemium** - A work in progress package that aims to mimick GNU coreutils but in rust
 
----
+## 🧰 Tech I use 
 
-_End of my README… yes, that’s it._
+
+```text
+Languages
+├── Rust
+├── Python
+├── Java
+└── Bash / Shell
+
+Tools
+├── Git
+├── Termux
+├── Linux
+├── Neovim / Helix
+└── Cargo
+```
+## 📈 Currently learning
+
+
+```
+Zig
+JavaScript
+Advanced rust
+```
+## 🐧 My Setup
+I mostly and code using Termux on Android. I also test my code frequently on Windows and Linux
+
+## 📫 Reach me 
+Email: **Azure-6-lgtm@proton.me**
+
+**_End of my README… yes, that’s it._**
