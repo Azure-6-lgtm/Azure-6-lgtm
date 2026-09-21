@@ -1,57 +1,18 @@
-# Hey, I'm Azure 👋
-
-🦀 **Rust learner** • 🐧 **Linux & Android enthusiast** • 🛠️ **Open-source contributor**
-
-I like building things, breaking things, figuring out why they broke, and occasionally pretending that was the plan.
-
-## 🔧 What I'm into
-
-- 🦀 Rust & systems programming
-- 🐍 Python
-- 🐧 Linux / Termux
-- 📱 Android
-- 💻 CLI tools & developer utilities
-- 🎸 Music and guitar
-- 🧪 Random programming experiments
-
-## 🚀 What I'm building
-
-I'm currently experimenting with Rust projects ranging from command-line tools and system utilities to small experiments in programming languages and developer tooling.
-
-Some of my projects:
-
-- 🛠️ **NeoBucheshell** — A work in progress fork and remaster of my old  shell **bucheshell** 
-- ⚡ **Buchemium** - A work in progress package that aims to mimick GNU coreutils but in rust
-
-## 🧰 Tech I use 
+# 💫 About Me:
+👋 Hello, I'm Azure!<br><br>🌱 I'm an open-source enthusiast interested in 🦀 Rust, 🐧 Linux, 📱 Android, and ⚙️ systems programming.<br><br>🛠️ I enjoy building 💻 command-line tools, experimenting with 🔧 low-level programming, and learning by creating real projects.<br><br>📱 I primarily develop using Termux and Linux.<br><br>🌍 I enjoy exploring 💡 different programming languages and technologies.
 
 
-```text
-Languages
-├── Rust
-├── Python
-├── Java
-└── Bash / Shell
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Azure-6-lgtm@proton.me) 
 
-Tools
-├── Git
-├── Termux
-├── Linux
-├── Neovim / Helix
-└── Cargo
-```
-## 📈 Currently learning
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=flat&logo=cmake&logoColor=white) ![Jellyfin](https://img.shields.io/badge/jellyfin-%23000B25.svg?style=flat&logo=Jellyfin&logoColor=00A4DC) ![FFmpeg](https://shields.io/badge/FFmpeg-%23171717.svg?logo=ffmpeg&style=flat&labelColor=171717&logoColor=5cb85c) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=flat&logo=xfce&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Azure-6-lgtm&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Azure-6-lgtm&theme=catppuccin_mocha&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Azure-6-lgtm&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+![](https://komarev.com/ghpvc/?username=Azure-6-lgtm)
 
-```
-Zig
-JavaScript
-Advanced rust
-```
-## 🐧 My Setup
-I mostly and code using Termux on Android. I also test my code frequently on Windows and Linux
-
-## 📫 Reach me 
-Email: **Azure-6-lgtm@proton.me**
-
-**_End of my README… yes, that’s it._**
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
